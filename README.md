@@ -32,6 +32,7 @@ A clean, scalable, and user-friendly alternative to `layeredTexture`, `blendColo
    - Create a new switch network.
    - Add or remove inputs at any time.
    - See and lock the name of the controller group (`shading`).
+<img width="1170" alt="maya_dFdOupAIpc" src="https://github.com/user-attachments/assets/0176b88f-b557-4766-9828-a8147dc5a071" />
 
 ---
 
