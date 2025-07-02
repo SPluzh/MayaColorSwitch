@@ -4,7 +4,9 @@
 It allows you to switch between multiple colors using a single integer attribute — just like a shader switch — but without any third-party plugins or renderer dependencies.
 
 A clean, scalable, and user-friendly alternative to `layeredTexture`, `blendColors` chains, or manually-built `condition` networks.
-<img alt="maya_JYwrDqp5Q3" src="https://github.com/user-attachments/assets/4a8e0f76-cdd1-47bd-a98c-98cb5ec92869" />
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/4a8e0f76-cdd1-47bd-a98c-98cb5ec92869" width="280" style="float: right; margin: 0 0 10px 20px;" />
+</p>
 
 ---
 
